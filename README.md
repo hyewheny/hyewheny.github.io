@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @hyewheny
-- 👀 I’m interested in ... Robotics
+# Robotics SW Engineer
+
+### Mechatronics
+
+### Work Experience
+ 
 - 📫 How to reach me ... luvhyewheny@gmail.com
 <!---
 hyewheny/hyewheny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
