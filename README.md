@@ -1,6 +1,8 @@
 # Robotics SW Engineer
 
-### Mechatronics
+### Education
+Mechatronics, BS
+
 
 ### Work Experience
  
